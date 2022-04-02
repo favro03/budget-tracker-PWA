@@ -4,7 +4,7 @@ Giving users a fast and easy way to track their money is important, but allowing
 
 Your challenge this week is to add functionality to an existing budget tracker application to allow for offline access and functionality. The user will be able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should update the total when brought back online. Finally, you’ll deploy the application to Heroku.
 
-Before you start, clone the [starter code](https://github.com/coding-boot-camp/symmetrical-bassoon).
+DONE: Before you start, clone the [starter code](https://github.com/coding-boot-camp/symmetrical-bassoon).
 
 > **On the Job:** When web developers are working on a feature request or trying to kill a bug, they rarely have all the information they need to solve the task in front of them. Being a successful developer requires you to combine knowledge that you’ve picked up from different applications you’ve worked on in the past to formulate a solution.
 > 
@@ -42,12 +42,11 @@ Revisit the following lessons to complete this challenge:
 
 ### Offline Functionality
 
-You’ll need to use IndexedDB to add offline functionality. Review Module 18: NoSQL, Lesson 4: Add Offline Persistence with IndexedDB as a refresher on how to add this to your application.
+DONE: You’ll need to use IndexedDB to add offline functionality. Review Module 18: NoSQL, Lesson 4: Add Offline Persistence with IndexedDB as a refresher on how to add this to your application.
 
 You’ll also need to add a service worker to your application. Review Module 19: Progressive Web Applications (PWA), Lesson 4: Using Service Workers as a refresher on how to add this to your application.
 
-> **Rewind:** The Food Festival application that you created in this module's lessons did not include an Express.js server, so you used the `webpack-dev-server` npm module to test the service worker with an HTTPS-enabled server.
-> 
+DONE: > **Rewind:** The Food Festival application that you created in this module's lessons did not include an Express.js server, so you used the `webpack-dev-server` npm module to test the service worker with an HTTPS-enabled server.
 > For this Challenge, however, you aren't using webpack, but you do have an Express.js server provided to you in the starter code. Remember that Chrome DevTools makes it possible to test service workers on localhost in development. Simply click on the Application tab in the tools, then select Service Workers from the left hand navigation.
 
 > **Important:** You should add both of the files to handle this functionality to the `public/js/` directory of your application.

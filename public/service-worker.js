@@ -8,6 +8,15 @@
      "./js/idb.js",
      "./css/styles.css",  
      "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
+     "/manifest.json",
+    //  "/public/icons/icon72x72.png",
+    //  "/public/icons/icon-96x96.png",
+    //  "/public/icons/icon-128x128.png",
+    //  "/public/icons/icon-144x144.png",
+    //  "/public/icons/icon-152x152.png",
+    //  "/public/icons/icon-192x192.png",
+    //  "/public/icons/icon-384x384.png",
+    //  "/public/icons/icon-512x512.png",
   ];
   
   // Respond with cached resources

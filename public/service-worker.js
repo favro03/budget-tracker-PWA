@@ -6,7 +6,8 @@
     "./index.html",
      "./js/index.js",
      "./js/idb.js",
-     "./css/style.css",  
+     "./css/styles.css",  
+     "https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css",
   ];
   
   // Respond with cached resources
